@@ -1,36 +1,35 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/vetores-gratis/laptop-com-icone-de-codigo-isometrico-de-programa-desenvolvimento-de-software-e-aplicacoes-de-programacao-neon-escuro_39422-971.jpg">
+# 🧑‍💻 Matheus da Silva Oliveira
 
-<h1>
-     <img align="center" alt="Logo computador" width="36px" src="https://static.vecteezy.com/ti/vetor-gratis/p1/5488396-minimalist-line-computer-monitor-led-technology-logo-design-vector-graphic-symbol-icon-sign-illustration-creative-idea-vetor.jpg"></a>
-    <span>Matheus da Silva Oliveira</span>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo!+:%29;Vamos+Codar!!!;)](https://git.io/typing-svg)
 
-<p align="justify">Front-end Developer from Salvador-BA, Brazil, post graduating at Software Development with Agile Methodology. My first "Hello World" was in pre-teens when I had contact with HTML, CSS and a little bit of JavaScript and Notepad++. 
-<br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
-<!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
--->
-<h3 align="left">Connect with me</h3>
+##### 🎓Aluno de Engenharia da Computação na PUC-Rio
+##### ⚡Técnico em Eletrônica
+##### 💻Paixão por Programação
+##### 🤖Fã de Robótica
+##### 🎮Gamer nas horas vagas
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
-<h3 align="left">GitHub Stats</h3>
+## Conecte-se comigo
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
-<br>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/matheusdasilvaoliveira2004)
+[![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:devmatheusoliveira01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-da-silva-oliveira-2558ab234/)
+[![Instagram](https://img.shields.io/badge/-Instagram-CD5C5C?style=for-the-badge&logo=instagram&logoColor=FFF)](mailto:devmatheusoliveira01@gmail.com)
 
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+## Habilidades
 
-</details>
+![HTML](https://img.shields.io/badge/HTML-D14836?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS3](https://img.shields.io/badge/CSS3-4169E1?style=for-the-badge&logo=css3&logoColor=FFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusdasilvaoliveira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusdasilvaoliveira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Meus Principais Desafios de Projeto DIO
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
