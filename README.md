@@ -2,19 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo!+:%29;Vamos+Codar!!!;)](https://git.io/typing-svg)
 
-##### 🎓Aluno de Engenharia da Computação na PUC-Rio
-##### ⚡Técnico em Eletrônica
-##### 💻Paixão por Programação
-##### 🤖Fã de Robótica
-##### 🎮Gamer nas horas vagas
+#### 🎓Aluno de Engenharia da Computação na PUC-Rio
+#### ⚡Técnico em Eletrônica
+#### 💻Paixão por Programação
+#### 🤖Fã de Robótica
+#### 🎮Gamer nas horas vagas
 
 
 ## Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/matheusdasilvaoliveira2004)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:devmatheusoliveira01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-da-silva-oliveira-2558ab234/)
-[![Instagram](https://img.shields.io/badge/-Instagram-CD5C5C?style=for-the-badge&logo=instagram&logoColor=FFF)](mailto:devmatheusoliveira01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/dev-matheus-da-silva-oliveira)
+[![Instagram](https://img.shields.io/badge/-Instagram-CD5C5C?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/esse_matheux/)
 
 ## Habilidades
 
