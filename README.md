@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-vindo!+:%29;Vamos+Codar!!!;)](https://git.io/typing-svg)
 
-#### 🎓Aluno de Engenharia da Computação na PUC-Rio
+#### 🎓Aluno de Ciência da Computação na PUC-Rio
 #### ⚡Técnico em Eletrônica
 #### 💻Paixão por Programação
 #### 🤖Fã de Robótica
