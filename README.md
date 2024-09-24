@@ -11,10 +11,10 @@
 
 ## Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/matheusdasilvaoliveira2004)
 [![E-mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:devmatheusoliveira01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/dev-matheus-da-silva-oliveira)
 [![Instagram](https://img.shields.io/badge/-Instagram-CD5C5C?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/esse_matheux/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/matheusdasilvaoliveira2004)
 
 ## Habilidades
 
